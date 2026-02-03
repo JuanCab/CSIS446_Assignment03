@@ -5,4 +5,3 @@ ID,OBESE,SMOKER,DRINKS_ALCOHOL,CANCER_RISK
 4,false,true,true,high
 5,false,true,false,low
 6,false,true,true,high
-
